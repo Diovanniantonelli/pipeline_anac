@@ -1,0 +1,9 @@
+{
+	"name": "Factory-databricks-projeto",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e15bb60-e669-4ad8-a2d3-8854c5819814",
+		"tenantId": "ba9a87fa-bcdf-4d5e-bccd-147954a5c385"
+	}
+}
